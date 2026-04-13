@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/render?type=gg&color=39FF14&height=220&section=header&text=Mohammed%20Sultan&fontSize=95&animation=fadeIn&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/render?type=gg&color=39FF14&height=250&section=header&text=Mohammed%20Sultan&fontSize=90&animation=fadeIn" />
 
   <br />
 
@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=System.status%3A+ACTIVE;%3E_%20Executing+Script...;Python+Developer+%7C+Cyber+Ops;A+%22quiet%22+approach+to+dominance.">
   </p>
 
-  <hr style="border: 1px solid #1A1A1A;" />
+  <br />
 
   <div align="center">
     <a href="https://www.instagram.com/m.s.55.1?igsh=MWQ0d2Y3aG5kcnRncQ==" target="_blank">
@@ -22,11 +22,10 @@
 </div>
 
 <br />
-<hr style="border: 1px solid #1A1A1A;" />
 
 <table align="center" width="100%">
   <tr>
-    <td width="48%" valign="top">
+    <td width="50%" valign="top">
       <div style="background-color: #0A0A0A; border: 2px solid #39FF14; border-radius: 10px; padding: 20px; box-shadow: 0 4px 15px rgba(57, 255, 20, 0.3);">
         <h3 style="color: #39FF14; text-align: right;">[//_ الملف_الرقمي ]</h3>
         <p dir="rtl" style="color: #AAAAAA; text-align: right;">
@@ -34,7 +33,7 @@
         </p>
       </div>
     </td>
-    <td width="4%"></td> <td width="48%" valign="top">
+    <td width="50%" valign="top">
       <div style="background-color: #0A0A0A; border: 2px solid #39FF14; border-radius: 10px; padding: 20px; box-shadow: 0 4px 15px rgba(57, 255, 20, 0.3);">
         <h3 style="color: #39FF14; text-align: right;">[//_ المبدأ ]</h3>
         <p dir="rtl" style="color: #AAAAAA; text-align: right;">
@@ -46,11 +45,8 @@
 </table>
 
 <br />
-<hr style="border: 1px solid #1A1A1A;" />
 
 <div align="center">
-  <h3 style="color: #39FF14;">🛠 تـرسـانـة الأسلحـة التقنيـة 🛠</h3>
-  <br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
@@ -60,17 +56,13 @@
 </div>
 
 <br />
-<hr style="border: 1px solid #1A1A1A;" />
 
 <div align="center">
-  <h3 style="color: #39FF14;">📊 السـجـل الـرقـمـي النشـط 📊</h3>
-  <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=363jxuskwhje-creator&show_icons=true&theme=neon&bg_color=0D1117&title_color=39FF14&text_color=AAAAAA&icon_color=39FF14" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=363jxuskwhje-creator&layout=compact&theme=neon&bg_color=0D1117&title_color=39FF14&text_color=AAAAAA" />
 </div>
 
 <br />
-<hr style="border: 1px solid #1A1A1A;" />
 
 <div align="center">
   <h3 style="color: #39FF14;">"ليس هناك ما هو أكثر رعباً من الجهل عندما يظن أنه معرفة."</h3>
